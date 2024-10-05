@@ -1,2 +1,2 @@
 # python-core
-python code
+Initial Document 
